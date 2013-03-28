@@ -1,4 +1,0 @@
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\bin\Debug\ValidationLibrary.dll
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\bin\Debug\ValidationLibrary.pdb
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\obj\Debug\ValidationLibrary.dll
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\obj\Debug\ValidationLibrary.pdb

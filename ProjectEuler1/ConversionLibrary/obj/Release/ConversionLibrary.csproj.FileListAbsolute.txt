@@ -1,4 +1,0 @@
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\bin\Release\ConversionLibrary.dll
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\bin\Release\ConversionLibrary.pdb
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\obj\Release\ConversionLibrary.dll
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\obj\Release\ConversionLibrary.pdb

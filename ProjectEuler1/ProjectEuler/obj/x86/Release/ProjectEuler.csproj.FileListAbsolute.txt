@@ -1,4 +1,0 @@
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ProjectEuler\bin\Release\ProjectEuler.exe
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ProjectEuler\bin\Release\ProjectEuler.pdb
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ProjectEuler\obj\x86\Release\ProjectEuler.exe
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ProjectEuler\obj\x86\Release\ProjectEuler.pdb

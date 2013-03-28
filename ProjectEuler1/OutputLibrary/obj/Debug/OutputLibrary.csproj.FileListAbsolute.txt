@@ -1,4 +1,0 @@
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\OutputLibrary\bin\Debug\OutputLibrary.dll
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\OutputLibrary\bin\Debug\OutputLibrary.pdb
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\OutputLibrary\obj\Debug\OutputLibrary.dll
-C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\OutputLibrary\obj\Debug\OutputLibrary.pdb
