@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ProjectEuler
 {
-    class ProjectEuler1
+    class EntryPoint
     {
         static void Main(string[] args)
         {
