@@ -1,0 +1,4 @@
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\bin\Release\ValidationLibrary.dll
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\bin\Release\ValidationLibrary.pdb
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\obj\Release\ValidationLibrary.dll
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ValidationLibrary\obj\Release\ValidationLibrary.pdb
