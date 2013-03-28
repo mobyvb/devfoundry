@@ -34,22 +34,21 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="EntryPoint.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PromptLibrary\InputOutputLibrary.csproj">
+    <ProjectReference Include="..\InputOutputLibrary\InputOutputLibrary.csproj">
       <Project>{06C1407D-F5F4-40F8-92D0-82297D2F5C26}</Project>
       <Name>InputOutputLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\OutputLibrary\OutputLibrary.csproj">
+      <Project>{719821aa-292b-43b0-ae96-37c03dcc289a}</Project>
+      <Name>OutputLibrary</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ValidationLibrary\ValidationLibrary.csproj">
+      <Project>{464c8c4b-0578-4ce6-9fca-b59034555140}</Project>
+      <Name>ValidationLibrary</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

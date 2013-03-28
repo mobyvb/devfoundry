@@ -16,5 +16,11 @@ namespace ValidationLibrary
             }
             return false;
         }
+
+        public static bool IsPositive(int x)
+        {
+            if (x > 0) return true;
+            return false;
+        }
     }
 }
