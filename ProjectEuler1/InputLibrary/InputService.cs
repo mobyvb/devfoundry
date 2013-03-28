@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace OutputLibrary
+namespace InputLibrary
 {
-    public class OutputService
+    public class InputService
     {
     }
 }
