@@ -7,5 +7,9 @@ namespace OutputLibrary
 {
     public class OutputService
     {
+        public static void WriteLine(string prompt)
+        {
+            Console.WriteLine(prompt);
+        }
     }
 }

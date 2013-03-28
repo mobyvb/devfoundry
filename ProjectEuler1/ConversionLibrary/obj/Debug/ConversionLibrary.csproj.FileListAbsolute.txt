@@ -1,0 +1,5 @@
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\bin\Debug\ConversionLibrary.dll
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\bin\Debug\ConversionLibrary.pdb
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\obj\Debug\ConversionLibrary.csprojResolveAssemblyReference.cache
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\obj\Debug\ConversionLibrary.dll
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\ConversionLibrary\obj\Debug\ConversionLibrary.pdb

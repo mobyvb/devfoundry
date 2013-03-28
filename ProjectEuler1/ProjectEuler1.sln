@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationLibrary", "Valida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionLibrary", "ConversionLibrary\ConversionLibrary.csproj", "{9EBE0CE5-29F6-4152-8B09-895C3B388730}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputLibrary", "PromptLibrary\InputOutputLibrary.csproj", "{06C1407D-F5F4-40F8-92D0-82297D2F5C26}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -71,6 +73,16 @@ Global
 		{9EBE0CE5-29F6-4152-8B09-895C3B388730}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{9EBE0CE5-29F6-4152-8B09-895C3B388730}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{9EBE0CE5-29F6-4152-8B09-895C3B388730}.Release|x86.ActiveCfg = Release|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{06C1407D-F5F4-40F8-92D0-82297D2F5C26}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

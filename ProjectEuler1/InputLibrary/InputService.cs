@@ -7,5 +7,9 @@ namespace InputLibrary
 {
     public class InputService
     {
+        public static string ReadLine()
+        {
+            return Console.ReadLine();
+        }
     }
 }

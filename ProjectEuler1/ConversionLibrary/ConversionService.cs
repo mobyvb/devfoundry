@@ -7,5 +7,9 @@ namespace ConversionLibrary
 {
     public class ConversionService
     {
+        public static int ParseInt(string str)
+        {
+            return int.Parse(str);
+        }
     }
 }

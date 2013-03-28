@@ -1,0 +1,4 @@
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\InputLibrary\bin\Debug\InputLibrary.dll
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\InputLibrary\bin\Debug\InputLibrary.pdb
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\InputLibrary\obj\Debug\InputLibrary.dll
+C:\Users\pure_float()\Documents\GitHub\devfoundry\ProjectEuler1\InputLibrary\obj\Debug\InputLibrary.pdb
