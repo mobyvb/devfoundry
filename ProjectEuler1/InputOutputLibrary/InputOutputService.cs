@@ -1,15 +1,18 @@
-﻿using InputLibrary;
+﻿
+
+
+
+using ConversionLibrary;
+using InputLibrary;
 using OutputLibrary;
 using ValidationLibrary;
-using ConversionLibrary;
-
 namespace InputOutputLibrary
 {
     public class InputOutputService
     {
         public static int GetIntFromPrompt(string prompt)
         {
-            OutputService.WriteLine(prompt);
+            OutputLibrary.OutputService.WriteLine(prompt);
             string responseStr = InputService.ReadLine();
             if (ValidationService.ParsesAsInt(responseStr))
             {

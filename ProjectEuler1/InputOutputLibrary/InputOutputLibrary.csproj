@@ -8,10 +8,12 @@
     <ProjectGuid>{06C1407D-F5F4-40F8-92D0-82297D2F5C26}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PromptLibrary</RootNamespace>
-    <AssemblyName>PromptLibrary</AssemblyName>
+    <RootNamespace>InputOutputLibrary</RootNamespace>
+    <AssemblyName>InputOutputLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -31,35 +33,22 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="System.Core" />
-    <Reference Include="System.Xml.Linq" />
-    <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Xml" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Include="InputOutputService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConversionLibrary\ConversionLibrary.csproj">
-      <Project>{9EBE0CE5-29F6-4152-8B09-895C3B388730}</Project>
-      <Name>ConversionLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\InputLibrary\InputLibrary.csproj">
-      <Project>{9F6B0AFB-16CB-47D0-88CD-66A869C5B4C5}</Project>
-      <Name>InputLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\OutputLibrary\OutputLibrary.csproj">
-      <Project>{719821AA-292B-43B0-AE96-37C03DCC289A}</Project>
-      <Name>OutputLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ValidationLibrary\ValidationLibrary.csproj">
-      <Project>{464C8C4B-0578-4CE6-9FCA-B59034555140}</Project>
-      <Name>ValidationLibrary</Name>
-    </ProjectReference>
+    <Reference Include="ConversionLibrary">
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\ConversionLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="InputLibrary">
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\InputLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="OutputLibrary">
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\OutputLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ValidationLibrary">
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\ValidationLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

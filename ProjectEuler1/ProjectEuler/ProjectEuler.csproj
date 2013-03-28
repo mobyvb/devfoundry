@@ -38,18 +38,18 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\InputOutputLibrary\InputOutputLibrary.csproj">
-      <Project>{06C1407D-F5F4-40F8-92D0-82297D2F5C26}</Project>
-      <Name>InputOutputLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\OutputLibrary\OutputLibrary.csproj">
-      <Project>{719821aa-292b-43b0-ae96-37c03dcc289a}</Project>
-      <Name>OutputLibrary</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ValidationLibrary\ValidationLibrary.csproj">
-      <Project>{464c8c4b-0578-4ce6-9fca-b59034555140}</Project>
-      <Name>ValidationLibrary</Name>
-    </ProjectReference>
+    <Reference Include="InputOutputLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\InputOutputLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="OutputLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\OutputLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="ValidationLibrary, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Desktop\Eulerdll\ValidationLibrary.dll</HintPath>
+    </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

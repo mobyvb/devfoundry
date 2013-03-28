@@ -1,7 +1,7 @@
-﻿using InputOutputLibrary;
+﻿
+using InputOutputLibrary;
 using OutputLibrary;
 using ValidationLibrary;
-
 namespace ProjectEuler
 {
     class EntryPoint
