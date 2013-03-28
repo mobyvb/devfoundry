@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationLibrary", "Valida
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConversionLibrary", "ConversionLibrary\ConversionLibrary.csproj", "{9EBE0CE5-29F6-4152-8B09-895C3B388730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputLibrary", "PromptLibrary\InputOutputLibrary.csproj", "{06C1407D-F5F4-40F8-92D0-82297D2F5C26}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutputLibrary", "InputOutputLibrary\InputOutputLibrary.csproj", "{06C1407D-F5F4-40F8-92D0-82297D2F5C26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
